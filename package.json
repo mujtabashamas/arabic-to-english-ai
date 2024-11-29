@@ -1,0 +1,21 @@
+{
+  "name": "arabic-to-english-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mujtaba Shaamas",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "node-tesseract-ocr": "^2.2.1",
+    "openai": "^4.73.1",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdf-to-img": "^4.3.0",
+    "pdf2pic": "^3.1.3",
+    "tesseract.js": "^5.1.1"
+  }
+}

@@ -1,0 +1,5 @@
+node_modules
+temp_images
+temp_pdfs
+temp_ocr_results
+.env
